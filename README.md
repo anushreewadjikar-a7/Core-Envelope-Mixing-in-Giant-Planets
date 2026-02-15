@@ -79,9 +79,6 @@ The simulation produces plots like:
 - How temperature evolves over billions of years
 - How hydrogen, helium, and heavy elements are distributed inside the planet
 
-Example output:
-
-![Core-envelope mixing](<sample outputs/Figure_ Elements mixing.png>)
 
 
 ## Code structure
@@ -119,5 +116,6 @@ Approximate equation of state
 Simplified cooling model
 
 1D radial structure
+
 
 The goal is to study general trends in core–envelope mixing.
