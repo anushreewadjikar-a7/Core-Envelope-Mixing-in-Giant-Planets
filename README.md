@@ -2,7 +2,7 @@
 
 This project is a numerical simulation of how the interior of giant planets (like Jupiter) evolves over time, especially how material from the solid core mixes into the surrounding gaseous envelope.
 
-It was developed as part of an MSc research project in planetary physics.
+It was developed as part of an MSc research project in Astrophysics.
 
 ---
 
@@ -119,3 +119,4 @@ Simplified cooling model
 
 
 The goal is to study general trends in core–envelope mixing.
+
