@@ -57,3 +57,4 @@ python run_cases.py
 
 ## Sample Outputs
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/06d769f2-f5b6-4d29-844f-8a7580092e56" />
+<img width="1200" height="400" alt="Figure_12" src="https://github.com/user-attachments/assets/07bc32bd-9bfa-4692-a97d-bcfaf6c1a1f5" />
