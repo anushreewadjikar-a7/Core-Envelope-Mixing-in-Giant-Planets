@@ -47,7 +47,7 @@ Fuentes et al. 2024).
 pip install -r requirements.txt
 
 ## Usage
-python run_cases.py
+python run_cases_fixed.py
 
 ## References
 - Helled & Stevenson 2017, ApJL 840 L4
